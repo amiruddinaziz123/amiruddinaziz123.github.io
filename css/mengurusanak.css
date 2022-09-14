@@ -151,7 +151,7 @@ label{
 #content{
     color: #0e244e;
     width: 100%;
-    height: 3000px;
+    height: 1500px;
     background-color: #ffc824b7;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -159,7 +159,7 @@ label{
 .tempatcard{
     background-color: rgb(220, 172, 45);
     width: 100%;
-    height: 2600px;
+    height: 1200px;
 }
 .videoincard{
     margin-left: 120px;
@@ -286,6 +286,10 @@ label{
 }
 .logosnapan:hover{
     opacity: 0.8;
+}
+.list-right{
+    font-size: 15px;
+    margin-left: 30px;
 }
 /* ==================================================================================== */
 /* ==================================================================================== */
@@ -663,7 +667,7 @@ label{
         background-color: rgb(255, 255, 255);
         background-repeat: no-repeat;
         background-size: 100%;
-        background-image: url(../image/background\ 1.png);
+        background-image: url(../image/mengurus\ anak.png);
         /* ini adalah tempat letaknya background */
         text-align: center;
     }
@@ -795,7 +799,7 @@ label{
     #content{
         color: #0e244e;
         width: 100%;
-        height: 2650px;
+        height: 1100px;
         background-color: #ffc824;
         background-repeat: no-repeat;
         background-size: 100%;
@@ -881,6 +885,18 @@ label{
         border-bottom-right-radius: 20px;
         margin-top: 20px;
     }
+    .card-left h3{
+        font-size: 10px;
+    }
+    .card-left ol li{
+        font-size: 8px;
+    }
+    .card-right h3{
+        font-size: 10px;
+    }
+    .card-right ol li{
+        font-size: 8px;
+    }
     .card-right{
         width: 70%;
         height: auto;
@@ -893,7 +909,7 @@ label{
     .tempatcard{
         background-color: rgb(220, 172, 45);
         width: 100%;
-        height: 2300px;
+        height: 1325px;
     }
     .videoincard{
         margin-left: 120px;
@@ -903,14 +919,14 @@ label{
     }
     .card-left:hover .videoincard{
         margin-left: 5px;
-        width: 300px;
+        width: 200px;
         height: auto;
         display: block;
         margin-bottom: 5px;
     }
     .card-right:hover .videoincard{
         margin-left: 5px;
-        width: 300px;
+        width: 200px;
         height: auto;
         display: block;
         margin-bottom: 5px;

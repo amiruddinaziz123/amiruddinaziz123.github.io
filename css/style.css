@@ -38,6 +38,7 @@
     padding: 320px;
     color:rgb(254, 200, 36);
     text-align: center;
+    font-size: 50px;
     font-family: Carter One;
 }
 #logo{
@@ -62,7 +63,7 @@
     display: flexbox;
     background-color: rgba(255, 0, 0, 0);
     width: 35%;
-    margin-top: 15px;
+    margin-top: 5px;
     margin-left: 6%;
     letter-spacing: 0.185em;
     font-size: 50px;
