@@ -575,7 +575,7 @@ label{
         margin-top: 16px;
         margin-left: 10%;
         letter-spacing: 0.185em;
-        font-size: 15px;
+        font-size: 12px;
     }
     .menu{
         position: fixed;
@@ -666,7 +666,7 @@ label{
     #content{
         color: #0e244e;
         width: 100%;
-        height: 600px;
+        height: 400px;
         background-color: #ffc824;
         background-repeat: no-repeat;
         background-size: 100%;

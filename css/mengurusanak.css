@@ -799,7 +799,7 @@ label{
     #content{
         color: #0e244e;
         width: 100%;
-        height: 1100px;
+        height: 1000px;
         background-color: #ffc824;
         background-repeat: no-repeat;
         background-size: 100%;
@@ -909,7 +909,7 @@ label{
     .tempatcard{
         background-color: rgb(220, 172, 45);
         width: 100%;
-        height: 1325px;
+        height: 750px;
     }
     .videoincard{
         margin-left: 120px;
@@ -930,5 +930,9 @@ label{
         height: auto;
         display: block;
         margin-bottom: 5px;
+    }
+    .pemaparan{
+        width: 100%;
+        height: 240px;
     }
 }

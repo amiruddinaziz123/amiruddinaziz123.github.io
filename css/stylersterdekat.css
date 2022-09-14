@@ -677,10 +677,13 @@ label{
     #content{
         color: #0e244e;
         width: 100%;
-        height: 2000px;
+        height: 1700px;
         background-color: #ffc824;
         background-repeat: no-repeat;
         background-size: 100%;
+    }
+    .titlein{
+        text-align: center;
     }
     #content h1{
         text-align: left;
@@ -733,5 +736,14 @@ label{
     }
     .two{
         margin-top: 20px;
+    }
+    .cardrs{
+        width: 100%;
+        height: 500px;
+        margin-top: 20px;
+    }
+    .one a img{
+        width: 100%;
+        height: 250px;
     }
 }
