@@ -565,7 +565,7 @@ label{
         width: 40px;
         height: 40px;
         border-radius: 100px;
-        margin-left: 20px;
+        margin-left: 8px;
         margin-top: 6px;
         position: fixed;
         background-image: url(../image/logo9_13_81242.png);
@@ -584,7 +584,7 @@ label{
         background-color: rgba(255, 0, 0, 0);
         width: 35%;
         margin-top: 16px;
-        margin-left: 10%;
+        margin-left: 34px;
         letter-spacing: 0.185em;
         font-size: 8px;
     }
