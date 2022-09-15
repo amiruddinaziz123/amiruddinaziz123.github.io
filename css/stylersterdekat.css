@@ -62,7 +62,7 @@
     display: flexbox;
     background-color: rgba(255, 0, 0, 0);
     width: 35%;
-    margin-top: 15px;
+    margin-top: 5px;
     margin-left: 6%;
     letter-spacing: 0.185em;
     font-size: 50px;
@@ -586,7 +586,7 @@ label{
         margin-top: 16px;
         margin-left: 10%;
         letter-spacing: 0.185em;
-        font-size: 15px;
+        font-size: 8px;
     }
     .menu{
         position: fixed;
@@ -673,11 +673,14 @@ label{
         width: 15px;
         height: 15px;
     }
+    .menu div h1{
+        font-size: 10px;
+    }
     
     #content{
         color: #0e244e;
         width: 100%;
-        height: 1700px;
+        height: 1950px;
         background-color: #ffc824;
         background-repeat: no-repeat;
         background-size: 100%;
@@ -739,7 +742,7 @@ label{
     }
     .cardrs{
         width: 100%;
-        height: 500px;
+        height: 550px;
         margin-top: 20px;
     }
     .one a img{
